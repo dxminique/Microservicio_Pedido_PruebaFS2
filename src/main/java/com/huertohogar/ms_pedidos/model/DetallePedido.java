@@ -1,4 +1,4 @@
-package com.example.ms_pedidos.model;
+package com.huertohogar.ms_pedidos.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.example.ms_pedidos;
+package com.huertohogar.ms_pedidos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

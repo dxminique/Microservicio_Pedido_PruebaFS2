@@ -1,4 +1,4 @@
-package com.example.ms_pedidos;
+package com.huertohogar.ms_pedidos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
